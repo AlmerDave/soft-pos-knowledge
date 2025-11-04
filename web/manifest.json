@@ -1,6 +1,6 @@
 {
-    "name": "soft_pos_demo",
-    "short_name": "soft_pos_demo",
+    "name": "Soft POS Knowledge",
+    "short_name": "Soft POS Knowledge",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -8,6 +8,7 @@
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+    "permissions": ["nfc"],
     "icons": [
         {
         "src": "/web-app-manifest-192x192.png",
